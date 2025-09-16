@@ -1,4 +1,4 @@
-#Volatility Forecasting Project (Using the Optiver Realized Volatility Challenge Dataset)
+## Volatility Forecasting Project (Using the Optiver Realized Volatility Challenge Dataset)
 
 This project aims to predict the realized volatility of financial assets using various forecasting techniques, leveraging high-frequency trading data. The dataset consists of order book and trade data for more than 100 stocks, organized in 10 minutes time windows. The project involves the use of both statistical and deep learning approaches for time series prediction.
 
