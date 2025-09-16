@@ -25,7 +25,7 @@ This project aims to predict the realized volatility of financial assets using v
 3. **[LSTM_forecasting_project.ipynb](./LSTM_forecasting_project.ipynb)**: 
    - This file implements the deep learning approach using Long Short-Term Memory (LSTM) networks to predict realized volatility. 
 
-4. **[Forecasting_Project.R.R](./Forecasting_Project.R)**: 
+4. **[Forecasting_Projec.R](./Forecasting_Project.R)**: 
    - The model implemented are standard linear regressions and linear regressions with logaritmic transformation of the variables. 
    - The R script focuses on cleaning the data, testing different specifications of volatility (standard and weighted), assessing residuals for homoscedasticity and normality, and selecting the best-fitting model based on statistical tests and performance (RMSPE).
 
